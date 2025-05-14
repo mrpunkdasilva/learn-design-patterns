@@ -1,0 +1,57 @@
+<instance-profile id="ldp"
+                 name="Learn Design Pattern"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="introduction-to-design-patterns.md">
+        <toc-element topic="basic-design-patterns.md"/>
+        <toc-element topic="types-of-design-patterns.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="basic-creational-patterns.md">
+        <toc-element topic="singleton-pattern.md"/>
+        <toc-element topic="factory-method-pattern.md"/>
+        <toc-element topic="abstract-factory-pattern.md"/>
+        <toc-element topic="basic-structural-patterns.md"/>
+        <toc-element topic="adapter-pattern.md"/>
+        <toc-element topic="composite-pattern.md"/>
+        <toc-element topic="proxy-pattern.md"/>
+    </toc-element>
+    <toc-element topic="basic-behavioral-patterns.md">
+        <toc-element topic="observer-pattern.md"/>
+        <toc-element topic="strategy-pattern.md"/>
+        <toc-element topic="template-method-pattern.md"/>
+        <toc-element topic="intermediate-design-patterns.md"/>
+        <toc-element topic="intermediate-creational-patterns.md"/>
+        <toc-element topic="builder-pattern.md"/>
+        <toc-element topic="prototype-pattern.md"/>
+        <toc-element topic="intermediate-structural-patterns.md"/>
+        <toc-element topic="decorator-pattern.md"/>
+        <toc-element topic="facade-pattern.md"/>
+    </toc-element>
+    <toc-element topic="intermediate-behavioral-patterns.md">
+        <toc-element topic="command-pattern.md"/>
+        <toc-element topic="chain-of-responsibility-pattern.md"/>
+        <toc-element topic="state-pattern.md"/>
+        <toc-element topic="advanced-design-patterns.md"/>
+        <toc-element topic="advanced-creational-patterns.md"/>
+        <toc-element topic="object-pool-pattern.md"/>
+    </toc-element>
+    <toc-element topic="advanced-structural-patterns.md">
+        <toc-element topic="flyweight-pattern.md"/>
+        <toc-element topic="bridge-pattern.md"/>
+        <toc-element topic="advanced-behavioral-patterns.md"/>
+        <toc-element topic="interpreter-pattern.md"/>
+        <toc-element topic="mediator-pattern.md"/>
+        <toc-element topic="memento-pattern.md"/>
+    </toc-element>
+    <toc-element topic="design-patterns-in-practice.md">
+        <toc-element topic="real-world-examples.md"/>
+        <toc-element topic="case-studies.md"/>
+        <toc-element topic="best-practices.md"/>
+        <toc-element topic="common-pitfalls.md"/>
+        <toc-element topic="tools-and-resources.md"/>
+    </toc-element>
+    <toc-element topic="conclusion.md"/>
+    <toc-element topic="appendix.md"/>
+</instance-profile>
